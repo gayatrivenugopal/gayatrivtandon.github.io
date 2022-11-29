@@ -23,7 +23,7 @@ and delivered sessions on text simplification,
  I am keen on creating engaging learning content and implementing diverse learning and 
  evaluation strategies in various environments, be it instructor-led, virtual instructor-led, or asynchronous.
  I am currently in the last phase of the Future Learning and 
- Development Leader certificate programme by KPMG, which is a course
+ Development Leader certificate course by KPMG, which is a course
   for people working as, or aiming to work as Learning & Development professionals.
 [minima](https://github.com/jekyll/minima)
 
