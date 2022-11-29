@@ -21,7 +21,7 @@ and delivered sessions on text simplification,
  and education technologies at 
  national and international events.<br>
  I am keen on creating engaging learning content and implementing diverse learning and 
- evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
+ evaluation strategies in various environments, be it instructor-led, virtual instructor-led, or asynchronous.
  I am currently in the last phase of the Future Learning and 
  Development Leader certificate programme by KPMG, which is a course
   for people working as, or aiming to work as Learning & Development professionals.
