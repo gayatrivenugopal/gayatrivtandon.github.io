@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Other Interests
+permalink: /other-interests/
 ---
 
 
