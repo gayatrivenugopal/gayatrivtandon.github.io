@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 
-I am a learning professional who has transitioned from a teaching role at a university to
-the role of a curriculum manager in the industry.
-I was a university faculty for nearly ten years,
-with expertise in the areas of 
+I am a learning professional who has transitioned from academia to
+the industry.
+I have worked as a university faculty for nearly ten years,
+with teaching expertise in the areas of 
 programming and web technologies.
-I am experienced in using instructional designing 
+I am experienced in cooperative learning and instructional designing 
 strategies for learning and assessment.
 I am currently pursuing Ph.D. from Symbiosis 
 International University in a topic that lies at the
@@ -23,8 +23,9 @@ and delivered sessions on text simplification,
  national and international events.
  I am keen on implementing diverse learning and 
  evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I am also pursuing the Future Learning and 
- Development Leader certificate programme by KPMG.
+ I have currently reached the last phase of the Future Learning and 
+ Development Leader certificate programme by KPMG, which is a course
+  for people working in, or transitioning into a Learning and Development role in the industry.
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
