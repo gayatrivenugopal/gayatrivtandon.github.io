@@ -5,15 +5,14 @@ permalink: /about/
 ---
 
 
-I am a learning professional who has transitioned from academia to
-the industry.<br>
+I am a learning professional who has transitioned from an academic to a corporate environment.
 I have worked as a university faculty for nearly ten years,
 with teaching expertise in the areas of 
 programming and web technologies.
-I am experienced in cooperative learning and instructional designing 
+I am experienced in cooperative learning techniques and instructional designing 
 strategies for learning and assessment.<br>
 I am currently pursuing Ph.D. from Symbiosis 
-International University in a topic that lies at the
+International University on Hindi lexical simplification, a topic that lies at the
 intersection of text accessibility, 
 machine learning and natural language processing.
 I have published research papers in 
@@ -23,9 +22,9 @@ and delivered sessions on text simplification,
  national and international events.<br>
  I am keen on creating engaging learning content and implementing diverse learning and 
  evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I have currently reached the last phase of the Future Learning and 
+ I am currently in the last phase of the Future Learning and 
  Development Leader certificate programme by KPMG, which is a course
-  for people working in, or transitioning into a Learning and Development role in the industry.
+  for people working as, or aiming to work as Learning & Development professionals.
 [minima](https://github.com/jekyll/minima)
 
 
