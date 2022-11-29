@@ -26,7 +26,6 @@ and delivered sessions on text simplification,
  I have currently reached the last phase of the Future Learning and 
  Development Leader certificate programme by KPMG, which is a course
   for people working in, or transitioning into a Learning and Development role in the industry.
-[jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
 
