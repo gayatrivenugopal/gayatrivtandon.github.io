@@ -3,30 +3,28 @@ layout: page
 title: Past Work
 permalink: /past-work/
 ---
-
-
-I am a learning professional who has transitioned from academia to
-the industry.<br>
-I have worked as a university faculty for nearly ten years,
-with teaching expertise in the areas of 
-programming and web technologies.
-I am experienced in cooperative learning and instructional designing 
-strategies for learning and assessment.<br>
-I am currently pursuing Ph.D. from Symbiosis 
-International University in a topic that lies at the
-intersection of text accessibility, 
-machine learning and natural language processing.
-I have published research papers in 
-international journals and conference proceedings, 
-and delivered sessions on text simplification,
- and education technologies at 
- national and international events.<br>
- I am keen on creating engaging learning content and implementing diverse learning and 
- evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I have currently reached the last phase of the Future Learning and 
- Development Leader certificate programme by KPMG, which is a course
-  for people working in, or transitioning into a Learning and Development role in the industry.
-[minima](https://github.com/jekyll/minima)
-
-
+<h3>June ’12-May ’15 and February ’16 - December '22 with 
+Symbiosis Institute of Computer Studies and Research
+</h3>
+<h4>Positions held: Teaching Assistant, Research Associate, Assistant Professor</h5>
+<h4>Highlights</h4>
+<ul>
+<li>Designed and reviewed curricula for a diverse set of courses after consulting with subject matter experts</li>
+<li>Performed learning needs analysis at the course level using surveys</li>
+<li>Used adult learning principles and instructional design strategies such as ADDIE, Gagne’s Nine Events of Instruction, Mayer’s Embodiment Principle, Kirkpatrick’s training evaluation model (levels 1 and 2), flipped classroom, storyboarding, scenario based learning, gamification, case studies, structured problem solving etc. while planning and teaching courses</li>
+<li>Used Bloom’s taxonomy extensively to create measurable learning outcomes, including terminal and enabling objectives</li>
+<li>Created textual storyboards to design course content</li>
+<li>Developed self learning material and videos for a self-paced online course</li>
+<li>Consistently received good feedback from students</li>
+<li>Supervised designs for an international conference organized by the university</li>
+<li>Anchored various events such as an international conference, and workshops at the institute</li>
+<li>Actively used Trello for tracking tasks allotted to team members</li>
+<li>Conducted research studies with Indian and international collaborators</li>
+<li>Member of the programme committee of the 9th Workshop on Speech and Language Processing for Assistive Technologies, 2022</li>
+<li>Received a grant of Rs. 1,50,000/- for a research project by Symbiosis Centre for Research and Innovation</li>
+<li>Received the best paper award in the IT track at SITM-TEM-IRC-2015, organized jointly by Symbiosis Institute of Telecom Management, Pune and Telecom Ecole De Management, France at SITM. The title of the paper was “A review of popular applications in Google Play - Do they cater to visually impaired users?”
+<li>Performed cost-benefit analysis as part of the accreditation process by NAAC (National Assessment and Accreditation Council)</li>
+<li>Attended workshops on Andragogy, Cooperative Learning and Assessment Strategies</li>
+<li>Conducted training sessions and talks on topics such as Moodle, Lexical Simplification, Word Embeddings, and Hindi WordNet</li>
+</ul>
 [jekyll-organization]: https://github.com/jekyll
