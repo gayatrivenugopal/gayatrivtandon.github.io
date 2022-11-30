@@ -26,7 +26,7 @@ Symbiosis Institute of Computer Studies and Research
 <li>Performed cost-benefit analysis as part of the accreditation process by NAAC (National Assessment and Accreditation Council)</li>
 <li>Attended workshops on Andragogy, Cooperative Learning and Assessment Strategies</li>
 <li>Conducted training sessions and talks on topics such as Moodle, Lexical Simplification, Word Embeddings, and Hindi WordNet</li>
-</ul>
+
 
 <h3>July ’15-October ‘15 - 
 Freelance Android Developer</h3>
