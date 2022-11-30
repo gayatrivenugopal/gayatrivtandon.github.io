@@ -6,7 +6,7 @@ permalink: /past-work/
 <h3>June ’12-May ’15 and February ’16 - December '22 with 
 Symbiosis Institute of Computer Studies and Research
 </h3>
-<h4>Positions held: Teaching Assistant, Research Associate, Assistant Professor</h5>
+<h4>Positions held: Teaching Assistant, Research Associate, Assistant Professor</h4>
 <h4>Highlights</h4>
 <ul>
 <li>Designed and reviewed curricula for a diverse set of courses after consulting with subject matter experts</li>
@@ -27,4 +27,5 @@ Symbiosis Institute of Computer Studies and Research
 <li>Attended workshops on Andragogy, Cooperative Learning and Assessment Strategies</li>
 <li>Conducted training sessions and talks on topics such as Moodle, Lexical Simplification, Word Embeddings, and Hindi WordNet</li>
 </ul>
+
 [jekyll-organization]: https://github.com/jekyll
