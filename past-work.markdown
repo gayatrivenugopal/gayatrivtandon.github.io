@@ -28,4 +28,11 @@ Symbiosis Institute of Computer Studies and Research
 <li>Conducted training sessions and talks on topics such as Moodle, Lexical Simplification, Word Embeddings, and Hindi WordNet</li>
 </ul>
 
+<h3>July ’15-October ‘15 - 
+Freelance Android Developer</h3>
+Worked on various accessible projects by IDEAL Group Inc., Ohio, for clients such as Bookshare, CRIS Radio, Google.
+
+
+
+
 [jekyll-organization]: https://github.com/jekyll
