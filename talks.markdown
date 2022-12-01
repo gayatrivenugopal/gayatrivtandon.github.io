@@ -26,7 +26,7 @@ university faculty members and system administrators.</li>
 simplifying complex words in a given text using machine 
 learning techniques.
 </li>
-<li> Spoke on this topic at Women Who Code Connect Forward 2020 (https://www.youtube.com/watch?v=ly4VlKwPGLs)
+<li> Spoke on this topic at <a href="https://www.youtube.com/watch?v=ly4VlKwPGLs">Women Who Code Connect Forward 2020</a>.
 </li>
 </ul>
 
