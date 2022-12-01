@@ -23,5 +23,5 @@ The code and data for the studies can be found at:
 <li><a href="https://github.com/gayatrivenugopal/bibliometric_lexical_simplification">Bibliometric Analysis of Studies on Lexical Simplification</a></li>
 </ul>
 
-I have mentored student research projects in the areas of machine learning and data science.
+Besides this, I have mentored student research projects in the areas of machine learning and data science, and published papers in the areas of accessibility, education technology, and machine learning.
 My publications can be found <a href="https://https://scholar.google.com/citations?user=z7J-KOwAAAAJ">here</a>.
