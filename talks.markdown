@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Talks and Trainings
+title: Highlights
 permalink: /talks-and-trainings/
 ---
 
-<h4>Highlighted Sessions</h4>
 
-<h5>Moodle LMS</h5>
+<h4>Moodle LMS</h4>
 <ul>
 <li>I am well versed with Moodle LMS for teaching,
  conducting summative and formative assessments, 
@@ -21,7 +20,7 @@ and system administrators. I have also given a talk on Moodle at gnuNify, an int
 university faculty members and system administrators.</li>
 </ul>
 
-<h5>Lexical Simplification of Hindi text</h5>
+<h4>Lexical Simplification of Hindi text</h4>
 <ul>
 <li> Lexical simplification refers to the process of 
 simplifying complex words in a given text using machine 
@@ -36,11 +35,11 @@ learning techniques.
 <li>Word embeddings are vector representations of words formed by training a model on huge amounts of textual data.
 </li>
 <li>
-Spoke on word embeddings at a faculty development workshop organized by Symbiosis Institute of Computer Studies and Research, in 2020.
+Spoke on word embeddings at a faculty development workshop organized by Symbiosis Institute of Computer Studies and Research.
 </li>
 </ul>
 
-<h5>Hindi WordNet</h5>
+<h4>Hindi WordNet</h4>
 <ul>
 <li>The Hindi WordNet is an extremely useful resource for anyone working in the area of computer science and Hindi language processing.
 </li>
