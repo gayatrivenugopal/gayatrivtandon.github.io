@@ -7,7 +7,6 @@ permalink: /past-work/
 Symbiosis Institute of Computer Studies and Research
 </h4>
 <i>Positions held: Teaching Assistant, Research Associate, Assistant Professor</i>
-<h5>Highlights</h5>
 <ul>
 <li>Designed and reviewed curricula for a diverse set of courses after consulting with subject matter experts</li>
 <li>Performed learning needs analysis at the course level using surveys</li>
