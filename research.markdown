@@ -11,11 +11,11 @@ of complex words and providing simpler alternatives to these words. A part of th
 funded by Symbiosis International University, and has been approved by the Independent Ethics Committee, Symbiosis International University.
 The resources created individually, as well as in collaboration with others have been listed below: <br>
 <ul>
-	<li>CWID-hi Dataset (https://zenodo.org/record/5229160#.Y4h2-XZBy5c)</li>
-	<li>Hindi Stop Word/Lemma List (https://github.com/gayatrivenugopal/hindi-corpus-stoplemmas)</li>
-	<li>Hindi Aesthetics Corpus (https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus)</li>
-	<li>ACL Anthology Browser (https://github.com/gayatrivenugopal/acl-anthology-browser)</li>
-	<li>Code for Ablation Study (https://github.com/gayatrivenugopal/ablation-study)</li>
+	<li><a href="https://zenodo.org/record/5229160#.Y4h2-XZBy5c">CWID-hi Dataset</a></li>
+	<li><a href="https://github.com/gayatrivenugopal/hindi-corpus-stoplemma">Hindi Stop Word/Lemma List</a></li>
+	<li><a href="https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus">Hindi Aesthetics Corpus</a></li>
+	<li><a href="https://github.com/gayatrivenugopal/acl-anthology-browser">ACL Anthology Browser</a></li>
+	<li><a href="https://github.com/gayatrivenugopal/ablation-study">Code for Ablation Study</a></li>
 </ul>
 The code and data for the studies can be found at:
 <ul>
