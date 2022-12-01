@@ -3,11 +3,11 @@ layout: page
 title: Past Work
 permalink: /past-work/
 ---
-<h3>June ’12-May ’15 and February ’16 - December '22 with 
+<h4>June ’12-May ’15 and February ’16 - December '22 with 
 Symbiosis Institute of Computer Studies and Research
-</h3>
-<h4>Positions held: Teaching Assistant, Research Associate, Assistant Professor</h4>
-<h4>Highlights</h4>
+</h4>
+<h5><i>Positions held: Teaching Assistant, Research Associate, Assistant Professor</i></h5>
+<h5>Highlights</h5>
 <ul>
 <li>Designed and reviewed curricula for a diverse set of courses after consulting with subject matter experts</li>
 <li>Performed learning needs analysis at the course level using surveys</li>
@@ -26,14 +26,14 @@ Symbiosis Institute of Computer Studies and Research
 <li>Performed cost-benefit analysis as part of the accreditation process by NAAC (National Assessment and Accreditation Council)</li>
 <li>Attended workshops on Andragogy, Cooperative Learning and Assessment Strategies</li>
 <li>Conducted training sessions and talks on topics such as Moodle, Lexical Simplification, Word Embeddings, and Hindi WordNet</li>
+</ul>
 
-
-<h3>July ’15-October ‘15 - 
-Freelance Android Developer</h3>
+<h4>July ’15-October ‘15 - 
+Freelance Android Developer</h4>
 Worked on various accessible projects by IDEAL Group Inc., Ohio, for clients such as Bookshare, CRIS Radio, Google.
 
-<h3>January ’12-May ‘12 - 
-Intern at Avaya India</h3>
+<h4>January ’12-May ‘12 - 
+Intern at Avaya India</h4>
 Worked in the R&D department on Avaya devices.
 
 
