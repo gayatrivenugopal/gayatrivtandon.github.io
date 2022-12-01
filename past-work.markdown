@@ -6,7 +6,7 @@ permalink: /past-work/
 <h4>June ’12-May ’15 and February ’16 - December '22 with 
 Symbiosis Institute of Computer Studies and Research
 </h4>
-<h5><i>Positions held: Teaching Assistant, Research Associate, Assistant Professor</i></h5>
+<i>Positions held: Teaching Assistant, Research Associate, Assistant Professor</i>
 <h5>Highlights</h5>
 <ul>
 <li>Designed and reviewed curricula for a diverse set of courses after consulting with subject matter experts</li>
