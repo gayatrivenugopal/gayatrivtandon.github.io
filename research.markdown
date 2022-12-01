@@ -12,7 +12,7 @@ funded by Symbiosis International University, and has been approved by the Indep
 The resources created individually, as well as in collaboration with others have been listed below: <br>
 <ul>
 	<li><a href="https://zenodo.org/record/5229160#.Y4h2-XZBy5c">CWID-hi Dataset</a></li>
-	<li><a href="https://github.com/gayatrivenugopal/hindi-corpus-stoplemma">Hindi Stop Word/Lemma List</a></li>
+	<li><a href="https://github.com/gayatrivenugopal/hindi-corpus-stoplemma">Hindi Stop Word List</a></li>
 	<li><a href="https://github.com/gayatrivenugopal/Hindi-Aesthetics-Corpus">Hindi Aesthetics Corpus</a></li>
 	<li><a href="https://github.com/gayatrivenugopal/acl-anthology-browser">ACL Anthology Browser</a></li>
 	<li><a href="https://github.com/gayatrivenugopal/ablation-study">Code for Ablation Study</a></li>
