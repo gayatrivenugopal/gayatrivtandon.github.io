@@ -4,28 +4,20 @@ title: Research
 permalink: /research/
 ---
 
+<h3>Research</h3>
+I am currently pursuing Ph.D. from Symbiosis International University, India,
+on <b>Automated Lexical Simplification of Hindi Text</b>.
+The objective is to improve the accessibility of text in Hindi by automating the identification 
+of complex words and providing simpler alternatives to these words. A part of this research has been
+funded by Symbiosis International University, and has been approved by the Independent Ethics Committee, Symbiosis International University.
+The resources created in collaboration with others have been listed below: <br>
+<ul>
+	<li></li>
+	<li></li>
+</ul>
+The code for the studies can be found at:
+My publications can be found on (https://https://scholar.google.com/citations?user=z7J-KOwAAAAJ).
 
-I am a learning professional who has transitioned from academia to
-the industry.<br>
-I have worked as a university faculty for nearly ten years,
-with teaching expertise in the areas of 
-programming and web technologies.
-I am experienced in cooperative learning and instructional designing 
-strategies for learning and assessment.<br>
-I am currently pursuing Ph.D. from Symbiosis 
-International University in a topic that lies at the
-intersection of text accessibility, 
-machine learning and natural language processing.
-I have published research papers in 
-international journals and conference proceedings, 
-and delivered sessions on text simplification,
- and education technologies at 
- national and international events.<br>
- I am keen on creating engaging learning content and implementing diverse learning and 
- evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I have currently reached the last phase of the Future Learning and 
- Development Leader certificate programme by KPMG, which is a course
-  for people working in, or transitioning into a Learning and Development role in the industry.
 [minima](https://github.com/jekyll/minima)
 
 

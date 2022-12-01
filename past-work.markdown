@@ -32,6 +32,9 @@ Symbiosis Institute of Computer Studies and Research
 Freelance Android Developer</h3>
 Worked on various accessible projects by IDEAL Group Inc., Ohio, for clients such as Bookshare, CRIS Radio, Google.
 
+<h3>January ’12-May ‘12 - 
+Intern at Avaya India</h3>
+Worked in the R&D department on Avaya devices.
 
 
 
