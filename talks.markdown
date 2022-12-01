@@ -4,7 +4,7 @@ title: Talks and Trainings
 permalink: /talks-and-trainings/
 ---
 
-
+<h3>Highlights</h3>
 <h4>Moodle LMS</h4>
 <ul>
 <li>I am well versed with Moodle LMS for teaching,
