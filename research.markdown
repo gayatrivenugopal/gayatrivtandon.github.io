@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-<h3>Research</h3>
 I am currently pursuing Ph.D. from Symbiosis International University, India,
 on <b>Automated Lexical Simplification of Hindi Text</b>.
 The objective is to improve the accessibility of text in Hindi by automating the identification 
@@ -20,7 +19,7 @@ The resources created individually, as well as in collaboration with others have
 </ul>
 The code and data for the studies can be found at:
 <ul>
-<li>(https://github.com/gayatrivenugopal/complex-word-identification-hindi)</li>
-<li>(https://github.com/gayatrivenugopal/bibliometric_lexical_simplification)</li>
+<li><a href="https://github.com/gayatrivenugopal/complex-word-identification-hindi">Complex Word Identification</a></li>
+<li><a href="https://github.com/gayatrivenugopal/bibliometric_lexical_simplification">Bibliometric Analysis of Studies on Lexical Simplification</a></li>
 </ul>
-My publications can be found at (https://https://scholar.google.com/citations?user=z7J-KOwAAAAJ).
+My publications can be found <a href="https://https://scholar.google.com/citations?user=z7J-KOwAAAAJ">Here</a>.
