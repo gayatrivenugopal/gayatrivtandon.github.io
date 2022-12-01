@@ -30,7 +30,7 @@ learning techniques.
 </li>
 </ul>
 
-<h5>Word Embeddings</h5>
+<h4>Word Embeddings</h4>
 <ul>
 <li>Word embeddings are vector representations of words formed by training a model on huge amounts of textual data.
 </li>
