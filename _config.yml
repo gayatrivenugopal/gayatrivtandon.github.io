@@ -30,7 +30,7 @@ twitter_username: speakingg3
 github_username:  gayatrivenugopal
 
 # Build settings
-theme: minimal
+theme: zivong/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
 
