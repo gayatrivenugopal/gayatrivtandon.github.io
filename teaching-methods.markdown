@@ -26,11 +26,12 @@ I used Padlet to:
  <li>share a summary of the topics (and sub-topics) covered in class.</li>
  <li>ask the students to create a question wall wherein they would write a few questions that they would ask an opponent in a hypothetical quiz, about a given set of topics covered in class.</li>
 </ul>
+<br>
 
 <i>Voice Thread</i><br>
 I used Voice Thread to create a podcast for a course. Students were asked to record an audio at the end of every week explaining, in brief, the concepts covered during the week.<br><br>
 
-<i>Other Methods and Tools</i><br>
+<i>Other Methods and Tools</i>
 <ul>
  <li>Buzz Programming</li>
  <li>Peer Code Review</li>
