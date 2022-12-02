@@ -32,7 +32,7 @@ github_username:  gayatrivenugopal
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  -jekyll-remote-theme
   
 remote_theme: ngzhio/jekyll-theme-hamilton
 
