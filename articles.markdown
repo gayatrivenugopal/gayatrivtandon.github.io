@@ -4,29 +4,12 @@ title: Articles
 permalink: /articles/
 ---
 
-
-I am a learning professional who has transitioned from academia to
-the industry.<br>
-I have worked as a university faculty for nearly ten years,
-with teaching expertise in the areas of 
-programming and web technologies.
-I am experienced in cooperative learning and instructional designing 
-strategies for learning and assessment.<br>
-I am currently pursuing Ph.D. from Symbiosis 
-International University in a topic that lies at the
-intersection of text accessibility, 
-machine learning and natural language processing.
-I have published research papers in 
-international journals and conference proceedings, 
-and delivered sessions on text simplification,
- and education technologies at 
- national and international events.<br>
- I am keen on creating engaging learning content and implementing diverse learning and 
- evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I have currently reached the last phase of the Future Learning and 
- Development Leader certificate programme by KPMG, which is a course
-  for people working in, or transitioning into a Learning and Development role in the industry.
-[minima](https://github.com/jekyll/minima)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<ul>
+ <li><a href="https://www.opensourceforu.com/2022/05/machine-learning-classification-using-python/">Machine Learning: Classification using Python</a></li>
+ <li><a href="http://cursor.sicsr.ac.in/empathy">Empathy - The Power Within</a></li>
+ <li><a href="https://www.opensourceforu.com/2018/03/singleton-design-pattern/">What is the Singleton Design Pattern?</a></li>
+ <li><a href="https://www.opensourceforu.com/2016/04/using-sqlite-in-android/">Using SQLite in Android</a></li>
+ <li><a href="https://www.opensourceforu.com/2016/02/creating-graphs-using-php/">Creating Graphs using PHP</a></li>
+ <li><a href="https://www.opensourceforu.com/2015/09/enhancing-accessibility-on-android/">Enhancing Accessibility on Android</a></li>
+ <li><a href="https://www.opensourceforu.com/2015/05/how-to-install-moodle-on-a-lamp-server/">How to Install Moodle on a LAMP Server</a></li>
+</ul>

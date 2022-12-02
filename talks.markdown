@@ -4,7 +4,7 @@ title: Talks and Trainings
 permalink: /talks-and-trainings/
 ---
 
-<h3>Highlights</h3>
+<i><font size="+2">Highlighted Talks</font></i>
 <h4>Moodle LMS</h4>
 <ul>
 <li>I am well versed with Moodle LMS for teaching,
@@ -14,9 +14,9 @@ permalink: /talks-and-trainings/
  the Moodle API, and have contributed to MoodleNet, 
  a social network for educators, as an alpha tester.
 </li>
-<li> I have conducted Moodle LMS training for university faculty 
+<li> Conducted Moodle LMS training for university faculty 
 and system administrators. I have also given a talk on Moodle at gnuNify, an international open source event held at Symbiosis Institute of Computer Studies and Research.</li>
-<li> I have created a user manual for Moodle LMS for 
+<li> Created a user manual for Moodle LMS for 
 university faculty members and system administrators.</li>
 </ul>
 

@@ -4,29 +4,8 @@ title: Other Interests
 permalink: /other-interests/
 ---
 
-
-I am a learning professional who has transitioned from academia to
-the industry.<br>
-I have worked as a university faculty for nearly ten years,
-with teaching expertise in the areas of 
-programming and web technologies.
-I am experienced in cooperative learning and instructional designing 
-strategies for learning and assessment.<br>
-I am currently pursuing Ph.D. from Symbiosis 
-International University in a topic that lies at the
-intersection of text accessibility, 
-machine learning and natural language processing.
-I have published research papers in 
-international journals and conference proceedings, 
-and delivered sessions on text simplification,
- and education technologies at 
- national and international events.<br>
- I am keen on creating engaging learning content and implementing diverse learning and 
- evaluation strategies in various types environments, be it instructor-led, virtual instructor-led, or asynchronous.
- I have currently reached the last phase of the Future Learning and 
- Development Leader certificate programme by KPMG, which is a course
-  for people working in, or transitioning into a Learning and Development role in the industry.
-[minima](https://github.com/jekyll/minima)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am an animal lover. Feeding and spending time with homeless dogs and cats serves is a great stress buster for me.<br>
+I believe that one should never neglect their mental and physical health. Fitness plays a big role in my life and I try to incorporate different forms of physical activity in my daily routine.
+I found peace in reading and art during the pandemic. Today, my walls are adorned with charcoal art, abstract art and macrame. I was a person who believed that I did not have an ounce of creativity in me. However, I realized that we should never believe the narratives that run in 
+our heads. Our inner self is bound to suprise us if we give ourselves a chance.
+I am looking forward to travel more to experience different cultures and learn more about nature.
