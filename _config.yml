@@ -35,6 +35,7 @@ plugins:
   - jekyll-remote-theme
   
 remote_theme: fongandrew/hydeout
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
