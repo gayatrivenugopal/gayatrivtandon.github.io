@@ -3,125 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gayatri Venugopal Tandon - Professional Portfolio</title>
-    <link rel="stylesheet"> <!-- Link to an external CSS file if needed -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        header, footer {
-            text-align: center;
-            padding: 1em;
-            background: #f0f0f0;
-        }
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        nav ul li {
-            display: inline;
-            margin: 0 10px;
-        }
-        section {
-            padding: 1em;
-        }
-        h2 {
-            cursor: pointer;
-        }
-        .content {
-            display: none;
-            padding: 10px;
-            border: 1px solid #ccc;
-            margin-top: 5px;
-        }
-    </style>
+    <title>Gayatri Venugopal Tandon - Home</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
         <h1>Gayatri Venugopal Tandon</h1>
-        <p>PhD in Computer Science, Specializing in Machine Learning and Data Science</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="work.html">Work Experience</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-
-    <nav>
-        <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#work">Work Experience</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-
-    <section id="about">
-        <h2 onclick="toggleContent('about-content')">About Me</h2>
-        <div id="about-content" class="content">
-            <p>I am an accomplished Curriculum Manager at Acquia, with over 12 years of experience in the learning and development field. I completed my PhD in Computer Science, specializing in Machine Learning and Data Science in 2024. My career has been dedicated to integrating advanced data science techniques into educational practices, enhancing learning outcomes, and driving innovation in curriculum design.</p>
-            <p>My professional journey has been marked by a deep commitment to both academia and industry, where I have consistently demonstrated my ability to bridge the gap between theoretical research and practical application. My doctoral research focused on developing advanced algorithms for predictive analytics in educational settings, reflecting my passion for using data to inform and improve educational experiences.</p>
-        </div>
-    </section>
-
-    <section id="work">
-        <h2 onclick="toggleContent('work-content')">Work Experience</h2>
-        <div id="work-content" class="content">
-            <h3>Curriculum Manager at Acquia</h3>
-            <p>December 2022 - Present</p>
-            <ul>
-                <li>Oversee product documentation, learning content creation, and job task analysis.</li>
-                <li>Manage stakeholder relationships and project timelines to ensure timely delivery of educational initiatives.</li>
-                <li>Facilitate technical enablement sessions and analyze departmental data to drive continuous improvement.</li>
-            </ul>
-            <h3>Teaching Experience</h3>
-            <p>June 2012 - June 2015, February 2019 - December 2022</p>
-            <ul>
-                <li>Taught courses in computer science and data science in both academic and professional settings.</li>
-                <li>Developed and delivered comprehensive curricula on machine learning, data analysis, and programming.</li>
-                <li>Mentored students and professionals, providing guidance on projects and career development in the tech field.</li>
-            </ul>
-        </div>
-    </section>
-
-    <section id="projects">
-        <h2 onclick="toggleContent('projects-content')">Projects</h2>
-        <div id="projects-content" class="content">
-            <h3>Academic Research</h3>
-            <ul>
-                <li><a href="https://github.com/gayatrivenugopal/thesis.pdf">PhD Thesis: Advanced Algorithms for Predictive Analytics in Educational Settings</a></li>
-                <li><a href="https://github.com/gayatrivenugopal/research_paper_1.pdf">Research Paper: Enhancing Machine Learning Models for Educational Data</a></li>
-                <li><a href="https://github.com/gayatrivenugopal/research_paper_2.pdf">Research Paper: Data-Driven Approaches to Personalized Learning</a></li>
-            </ul>
-            <h3>Data Science Projects</h3>
-            <ul>
-                <li><a href="https://github.com/gayatrivenugopal/project1">Project 1: Predictive Modeling for House Prices</a></li>
-                <li><a href="https://github.com/gayatrivenugopal/project2">Project 2: Data Visualization for Business Insights</a></li>
-            </ul>
-            <h3>Learning and Development</h3>
-            <ul>
-                <li><a href="https://github.com/gayatrivenugopal/course1">Course 1: Introduction to Machine Learning</a></li>
-                <li><a href="https://github.com/gayatrivenugopal/course2">Course 2: Data Analysis with Python</a></li>
-            </ul>
-        </div>
-    </section>
-
-    <section id="contact">
-        <h2 onclick="toggleContent('contact-content')">Contact</h2>
-        <div id="contact-content" class="content">
-            <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
-        </div>
-    </section>
-
+    <main>
+        <h2>Welcome to My Portfolio</h2>
+        <p>This is the homepage of Gayatri Venugopal Tandon's professional portfolio.</p>
+    </main>
     <footer>
         <p>&copy; 2024 Gayatri Venugopal Tandon. All rights reserved.</p>
     </footer>
-
-    <script>
-        function toggleContent(id) {
-            var content = document.getElementById(id);
-            if (content.style.display === "block") {
-                content.style.display = "none";
-            } else {
-                content.style.display = "block";
-            }
-        }
-    </script>
 </body>
 </html>
