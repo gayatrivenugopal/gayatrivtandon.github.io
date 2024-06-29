@@ -33,7 +33,8 @@ plugins:
   - jekyll-remote-theme
   
 # remote_theme: fongandrew/hydeout
-theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
+
 paginate: 5
 
 # Exclude from processing.
