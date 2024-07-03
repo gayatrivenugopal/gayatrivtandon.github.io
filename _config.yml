@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: speakingg3
 github_username:  gayatrivenugopal
 
-remote_theme: poole/hydeout
+remote_theme: poole/hyde
 
 # Build settings
 plugins:
